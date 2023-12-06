@@ -1,0 +1,11 @@
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\bin\Debug\biodata_mahasiswa.exe.config
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\bin\Debug\biodata_mahasiswa.exe
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\bin\Debug\biodata_mahasiswa.pdb
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.csproj.AssemblyReference.cache
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.Form1.resources
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.Properties.Resources.resources
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.csproj.GenerateResource.cache
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.exe
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.pdb
+C:\Users\MyBook14H\source\repos\biodata_mahasiswa\biodata_mahasiswa\obj\Debug\biodata_mahasiswa.Home.resources
